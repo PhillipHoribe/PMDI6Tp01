@@ -1,0 +1,17 @@
+C:\Users\Philc\source\repos\PMDI6\Tp01\Tp01\Tp01\bin\Debug\netstandard2.0\Tp01.deps.json
+C:\Users\Philc\source\repos\PMDI6\Tp01\Tp01\Tp01\bin\Debug\netstandard2.0\Tp01.dll
+C:\Users\Philc\source\repos\PMDI6\Tp01\Tp01\Tp01\bin\Debug\netstandard2.0\ref\Tp01.dll
+C:\Users\Philc\source\repos\PMDI6\Tp01\Tp01\Tp01\bin\Debug\netstandard2.0\Tp01.pdb
+C:\Users\Philc\source\repos\PMDI6\Tp01\Tp01\Tp01\obj\Debug\netstandard2.0\Tp01.csprojAssemblyReference.cache
+C:\Users\Philc\source\repos\PMDI6\Tp01\Tp01\Tp01\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Philc\source\repos\PMDI6\Tp01\Tp01\Tp01\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Philc\source\repos\PMDI6\Tp01\Tp01\Tp01\obj\Debug\netstandard2.0\View\CreditosView.xaml.g.cs
+C:\Users\Philc\source\repos\PMDI6\Tp01\Tp01\Tp01\obj\Debug\netstandard2.0\View\LoginView.xaml.g.cs
+C:\Users\Philc\source\repos\PMDI6\Tp01\Tp01\Tp01\obj\Debug\netstandard2.0\View\MainView.xaml.g.cs
+C:\Users\Philc\source\repos\PMDI6\Tp01\Tp01\Tp01\obj\Debug\netstandard2.0\Tp01.AssemblyInfoInputs.cache
+C:\Users\Philc\source\repos\PMDI6\Tp01\Tp01\Tp01\obj\Debug\netstandard2.0\Tp01.AssemblyInfo.cs
+C:\Users\Philc\source\repos\PMDI6\Tp01\Tp01\Tp01\obj\Debug\netstandard2.0\Tp01.csproj.CoreCompileInputs.cache
+C:\Users\Philc\source\repos\PMDI6\Tp01\Tp01\Tp01\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Philc\source\repos\PMDI6\Tp01\Tp01\Tp01\obj\Debug\netstandard2.0\Tp01.dll
+C:\Users\Philc\source\repos\PMDI6\Tp01\Tp01\Tp01\obj\Debug\netstandard2.0\ref\Tp01.dll
+C:\Users\Philc\source\repos\PMDI6\Tp01\Tp01\Tp01\obj\Debug\netstandard2.0\Tp01.pdb
